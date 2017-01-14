@@ -5,6 +5,6 @@
 ```bash
 git clone https://github.com/shug0/jc3mp-welcome-message welcome-message
 ```
-#### 2. Edit the *message* const in `main.js` with your message.
+#### 2. Edit `const message` in `main.js` with your message.
 #### 3. Enjoy
 
